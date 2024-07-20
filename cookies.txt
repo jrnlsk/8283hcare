@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tsyndicate.com	TRUE	/	FALSE	1999999999	ts_uid	cf7f4103-559f-451b-8c44-69d5a8b386eb
+tsyndicate.com	TRUE	/	FALSE	1999999999	SameSite	None
+
